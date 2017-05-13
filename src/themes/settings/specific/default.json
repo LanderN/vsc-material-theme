@@ -2,11 +2,11 @@
   "id": "material.theme.default",
   "name": "Material-Theme-Default",
   "scheme": {
-    "background": "#263238",
+    "background": "#323732",
     "comments": "#546E7A",
     "caret": "#FFCC00",
     "findHighlight": "#FFCC00",
-    "foreground": "#EEFFFF",
+    "foreground": "#fff3e1",
     "focusBorder": "#FFFFFF",
     "guides": "#37474F80",
     "lineNumbers": "#37474F",
