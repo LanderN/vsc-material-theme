@@ -1,6 +1,6 @@
 {
-  "name": "vsc-material-theme",
-  "displayName": "Material Theme",
+  "name": "vsc-material-theme-lander",
+  "displayName": "Material Theme Adapted",
   "description": "The most epic theme now for Visual Studio Code",
   "version": "0.0.13",
   "preview": true,
@@ -41,7 +41,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Material Theme",
+        "label": "Material Theme Adapted",
         "uiTheme": "vs-dark",
         "path": "./themes/Material-Theme-Default.json"
       },
